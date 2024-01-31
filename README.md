@@ -9,3 +9,7 @@ It is corny to say but I am facinated by how AI has become one of the most talke
 # Comment by Stanley Moukhametzianov (sm9231)
 
 I mostly agree with the articles view on AI while it is very useful, AI as a whole is very prone to bugs and as seen with chatGPT can be prone to make stuff up for give the wrong information. As such, I see it as being mostly be used as a tool to speed up repetative tasks that can be easily automated. Overall, it would be beneficial and allow software to be developed faster. :D 
+
+# Comment by Wei Luo (yl7408)
+
+It is time to start worrying about the threat of Artificial intelligence to software engineers. From my perspective, it will indeed replace some software engineers without experience or without outstanding skills. To survive, focus on more advanced topic, such as machine learning, natural language processing and even AI itself is needed for technology partitioners to survive.
